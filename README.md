@@ -1,3 +1,5 @@
+Proxy for fury_infrastructure-api
+
 ### 1) Install dependencies in root 
 ```javascript
 npm i
